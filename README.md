@@ -35,7 +35,5 @@ You are required to submit the following:
 
 * A link to a Google Doc or video explaining the application in `Develop/`. 
 
-_Note: Don't forget to change the sharing settings on your Google Doc._
-
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+File-Explained
+https://docs.google.com/document/d/17tK0a-v4UHb-0rZFwo_L_vLd8Hr661ZZLZN6ILJELSs/edit?usp=sharing
